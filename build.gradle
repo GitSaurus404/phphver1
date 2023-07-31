@@ -1,5 +1,8 @@
-sourceCompatibility='16'
-targetCompatibility='16'
+
+java {
+    sourceCompability='16'
+    targetCompability='16'
+}
 
 plugins {
     id 'java'
